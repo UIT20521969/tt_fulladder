@@ -22,7 +22,7 @@ pinout:
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
-  ui[7]: ""
+  ui[7]: "led_i"
 
   # Outputs
   uo[0]: "S"
